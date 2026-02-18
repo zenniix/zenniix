@@ -18,5 +18,5 @@ I love solving problems and learning new things every day.
 
 ---
 Let's learn, code, and grow together! 🚀
-![My Tech Logos](logos.png)
+![My Tech Logos](logo.png)
 
