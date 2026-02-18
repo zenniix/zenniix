@@ -17,5 +17,6 @@ I love solving problems and learning new things every day.
 - Mini projects in C++ and HTML  
 
 ---
-
 Let's learn, code, and grow together! 🚀
+![My Tech Logos](logos.png)
+
