@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm [ALIYAN ABDULLAH] 👋
 
-<!--
-**zenniix/zenniix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner in Competitive Programming and Web Development.  
+I love solving problems and learning new things every day.
 
-Here are some ideas to get you started:
+## 💻 Skills
+- Programming: C, C++  
+- Web Development: HTML  
+- Problem Solving & Algorithms  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Competitive Programming
+- Codeforces: [YourHandle](https://codeforces.com/profile/ALIYAN_NIAZI)  
+- Current Rating: Beginner  
+
+## 📂 GitHub Repositories
+- Organized competitive programming solutions  
+- Mini projects in C++ and HTML  
+
+---
+
+Let's learn, code, and grow together! 🚀
