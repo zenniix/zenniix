@@ -9,7 +9,7 @@ I love solving problems and learning new things every day.
 - Problem Solving & Algorithms  
 
 ## 📚 Competitive Programming
-- Codeforces: [YourHandle](https://codeforces.com/profile/ALIYAN_NIAZI)  
+- Codeforces: [ALIYAN KHAN](https://codeforces.com/profile/ALIYAN_NIAZI)  
 - Current Rating: Beginner  
 
 ## 📂 GitHub Repositories
