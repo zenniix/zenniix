@@ -21,7 +21,7 @@ I love solving problems and learning new things every day.
            alt="C++"
            width="60" height="60"/>
     </a>
-     <a href="https://github.com/zenniix/programing-fundamentals.git" target="_blank">
+     <a href="https://github.com/zenniix/Python.git" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
        title="Python"
        alt="Python"
